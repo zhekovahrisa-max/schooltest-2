@@ -19,14 +19,18 @@ namespace schooltest_2
                 this.inputFilePath = inputFilePath;
             }
 
-            // toq clas proverqva dali ima izbrani testove ot predi
-            public bool CheckIfTestsExist()
+        // toq clas proverqva dali ima izbrani testove ot predi
+        public bool CheckIfTestsExist()
+        {
+            if (File.Exists("test1.txt"))
             {
-                return File.Exists("test1.txt"); // gabi ako test 1 sushtestvuva e pusnata predi 
+                File.Delete("test1.txt");
             }
+            return false;
+        }
 
-            // tui prochita vuprositge ot faila
-            public List<Question> LoadQuestions()
+        // tui prochita vuprositge ot faila
+        public List<Question> LoadQuestions()
             {
                 List<Question> questions = new List<Question>();
 
@@ -60,7 +64,7 @@ namespace schooltest_2
                 return questions;
             }
 
-            // yui zappisva edin test vuv fail
+            // tui zappisva edin test vuv fail
             public void SaveTest(string fileName, List<Question> questions, int testNumber)
             {
                 using (StreamWriter writer = new StreamWriter(fileName))
