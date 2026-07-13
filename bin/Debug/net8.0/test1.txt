@@ -1,0 +1,22 @@
+================ ТЕСТ №1 ================
+Генериран на: 13.7.2026 г. 21:55:11
+==================================================
+
+1. Koy e osnoval balgarskata darzhava?
+   А) Han Krum
+   Б) Car Simeon
+   В) Han Asparuh
+   Г) Car Boris
+
+2. Koya planeta e nay-blizo do Slanceto?
+   А) Venera
+   Б) Merkuriy
+   В) Mars
+   Г) Zemya
+
+3. Kolko gradusa e praviyat agal?
+   А) 45
+   Б) 90
+   В) 360
+   Г) 180
+

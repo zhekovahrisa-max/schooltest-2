@@ -1,0 +1,22 @@
+================ ТЕСТ №3 ================
+Генериран на: 13.7.2026 г. 21:55:11
+==================================================
+
+1. Na koya planeta kazvat Chervenata planeta?
+   А) Saturn
+   Б) Mars
+   В) Yupiter
+   Г) Venera
+
+2. Koy e nay-golemiyat okean na Zemyata?
+   А) Atlanticheskiyat
+   Б) Severniyat ledovit
+   В) Indiyskiyat
+   Г) Tihiyat
+
+3. Kolko bita ima v edin bayt?
+   А) 32
+   Б) 8
+   В) 16
+   Г) 4
+

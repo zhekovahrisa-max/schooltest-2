@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\c#projects\schooltest#2\bin\Debug\net8.0\schooltest#2.exe
+C:\Users\User\Desktop\c#projects\schooltest#2\bin\Debug\net8.0\questions.txt
+C:\Users\User\Desktop\c#projects\schooltest#2\bin\Debug\net8.0\schooltest#2.deps.json
+C:\Users\User\Desktop\c#projects\schooltest#2\bin\Debug\net8.0\schooltest#2.runtimeconfig.json
+C:\Users\User\Desktop\c#projects\schooltest#2\bin\Debug\net8.0\schooltest#2.dll
+C:\Users\User\Desktop\c#projects\schooltest#2\bin\Debug\net8.0\schooltest#2.pdb
+C:\Users\User\Desktop\c#projects\schooltest#2\obj\Debug\net8.0\schooltest#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#projects\schooltest#2\obj\Debug\net8.0\schooltest#2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#projects\schooltest#2\obj\Debug\net8.0\schooltest#2.AssemblyInfo.cs
+C:\Users\User\Desktop\c#projects\schooltest#2\obj\Debug\net8.0\schooltest#2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#projects\schooltest#2\obj\Debug\net8.0\schooltest#2.sourcelink.json
+C:\Users\User\Desktop\c#projects\schooltest#2\obj\Debug\net8.0\schooltest#2.dll
+C:\Users\User\Desktop\c#projects\schooltest#2\obj\Debug\net8.0\refint\schooltest#2.dll
+C:\Users\User\Desktop\c#projects\schooltest#2\obj\Debug\net8.0\schooltest#2.pdb
+C:\Users\User\Desktop\c#projects\schooltest#2\obj\Debug\net8.0\schooltest#2.genruntimeconfig.cache
+C:\Users\User\Desktop\c#projects\schooltest#2\obj\Debug\net8.0\ref\schooltest#2.dll
